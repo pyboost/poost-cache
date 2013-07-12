@@ -18,4 +18,4 @@ if not (2, 6) <= sys.version_info < (3, ):
 
 del sys, absolute_import
 
-__version__ = '0.1.0'
+__version__ = '0.1.0-a1'
