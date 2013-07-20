@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #
 # Copyright (C) 2013 Pengkui Luo <pengkui.luo@gmail.com>
-# Created 06/24/2013, updated 06/24/2013
+# Created 06/24/2013, updated 07/19/2013
 #
 """ Caching utilities.
 """
@@ -18,4 +18,4 @@ if not (2, 6) <= sys.version_info < (3, ):
 
 del sys, absolute_import
 
-__version__ = '0.1.0-a1'
+__version__ = '0.13.1-a1'
